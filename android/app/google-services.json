@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410382694655",
+    "project_id": "radical-motor-2gq1or",
+    "storage_bucket": "radical-motor-2gq1or.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410382694655:android:2769969888a94a4781f4ca",
+        "android_client_info": {
+          "package_name": "com.radical.radicalmotor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSj8r6gQGbAOmDO29pkS9QFtYit01HBaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
